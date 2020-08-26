@@ -17,14 +17,14 @@ Spanish Translate A/B Test<br>
 #### Full stack
 Social Company Blog using Python and Flask<br>
 
-### 2 Quantitative Finance
-#### 2.1 Risk
+### 3 Quantitative Finance
+#### 3.1 Risk
 Credit Risk Modeling - PD,LGD, EAD model<br>
 Barra Risk Factor Attribution<br>
 
-#### 2.2 Trading
+#### 3.2 Trading
 Market Neutral Trading Startegies<br>
 
-#### 2.3 Fixed Income Securities
+#### 3.3 Fixed Income Securities
 
-#### 2.4 Derrivatives Pricing
+#### 3.4 Derrivatives Pricing
