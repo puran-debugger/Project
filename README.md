@@ -7,7 +7,7 @@ ETL Pipline<br>
 
 #### 1.2 Data Analytic
 Covid-19 Data Analysis<br>
-Visualization with Tableau<br>
+Visualization Stories with Tableau Dashboard<br>
 
 #### 1.3 Data Science
 Customer Segmetation<br>
