@@ -7,7 +7,7 @@ ETL Pipline<br>
 
 #### 1.2 Data Analytic
 Covid-19 Data Analysis<br>
-Vehicle Information: Extract Insights by PCA<br>
+[Vehicle Information: Extract Insights by PCA](https://github.com/puran-debugger/Project/tree/master/Vehicle_Extract%20Insights%20by%20PCA)<br>
 Visualization Stories with Tableau Dashboards<br>
 
 #### 1.3 Data Science
