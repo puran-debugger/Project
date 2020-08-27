@@ -4,6 +4,7 @@
 ### 1 Data Science 
 #### 1.1 Data Engineering
 ETL Pipline<br>
+[Python Application with MySQL](https://github.com/puran-debugger/Project/blob/master/Application_Python_MySQL/Python%20Application%20with%20MySQL.ipynb)<br>
 
 #### 1.2 Data Analytic
 Covid-19 Data Analysis<br>
