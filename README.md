@@ -20,7 +20,7 @@ Spanish Translate A/B Test<br>
 Social Company Blog using Python and Flask<br>
 
 #### 2.2 Automation Tools
-Automative Email<br>
+[Automative Email](https://github.com/puran-debugger/Project/blob/master/Automative%20Email/Automative%20Email%20Prototype.ipynb)<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
