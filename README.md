@@ -16,8 +16,11 @@ Customer Segmetation<br>
 Spanish Translate A/B Test<br>
 
 ### 2 Developer
-#### Full stack
+#### 2.1 Full stack
 Social Company Blog using Python and Flask<br>
+
+#### 2.2 Automation Tools
+Automative Email<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
