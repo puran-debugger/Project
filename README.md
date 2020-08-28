@@ -4,6 +4,7 @@
 ### 1 Data Science 
 #### 1.1 Data Engineering
 ETL Pipline<br>
+[Python Application with MySQL](https://github.com/puran-debugger/Project/blob/master/Application_Python_MySQL/Python%20Application%20with%20MySQL.ipynb)<br>
 
 #### 1.2 Data Analytic
 Covid-19 Data Analysis<br>
@@ -15,8 +16,11 @@ Customer Segmetation<br>
 Spanish Translate A/B Test<br>
 
 ### 2 Developer
-#### Full stack
+#### 2.1 Full stack
 Social Company Blog using Python and Flask<br>
+
+#### 2.2 Automation Tools
+Automative Email<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
