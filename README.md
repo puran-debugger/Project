@@ -7,7 +7,7 @@ ETL Pipline<br>
 [Python Application with MySQL](https://github.com/puran-debugger/Project/blob/master/Application_Python_MySQL/Python%20Application%20with%20MySQL.ipynb)<br>
 
 #### 1.2 Data Analytic
-Covid-19 Data Analysis<br>
+[Covid-19 Data Analysis](https://github.com/puran-debugger/Project/blob/master/Covid19%20Data%20Analysis/Covid19%20data%20analysis.ipynb)<br>
 [Vehicle Information: Extract Insights by PCA](https://github.com/puran-debugger/Project/blob/master/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA.md)<br>
 Visualization Stories with Tableau Dashboards<br>
 
