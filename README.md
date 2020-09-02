@@ -12,8 +12,8 @@ ETL Pipline<br>
 Visualization Stories with Tableau Dashboards<br>
 
 #### 1.3 Data Science
-[Customer Segmetation for ecommercial]()<br>
-[Spanish Translate A/B Test on ecommercial Web]()<br>
+[Customer Segmetation for Ecommercial]()<br>
+[Spanish Translate A/B Test on Ecommercial Web]()<br>
 [Fraud Detection on Credit Card Transactions]()<br>
 
 ### 2 Developer
