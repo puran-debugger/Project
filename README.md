@@ -14,6 +14,7 @@ Visualization Stories with Tableau Dashboards<br>
 #### 1.3 Data Science
 Customer Segmetation<br>
 Spanish Translate A/B Test<br>
+Fraud Detection on Credit Card Transactions<br>
 
 ### 2 Developer
 #### 2.1 Full stack
