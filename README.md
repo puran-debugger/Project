@@ -14,7 +14,7 @@ Visualization Stories with Tableau Dashboards<br>
 #### 1.3 Data Science
 [Customer Segmetation]()<br>
 [Spanish Translate A/B Test](https://github.com/puran-debugger/Project/blob/master/Spanish%20Translation%20AB%20Test/Spanish%20Translation%20AB%20Test.ipynb)<br>
-[Fraud Detection on Credit Card Transactions]()<br>
+[Fraud Detection on Credit Card Transactions](https://github.com/puran-debugger/Project/blob/master/Fraud%20Detection%20-%20Credit%20Card%20Transaction/Fraud%20Detection%20-%20Credit%20Card%20Transaction.ipynb)<br>
 
 ### 2 Developer
 #### 2.1 Full stack
