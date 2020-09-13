@@ -18,11 +18,16 @@ Visualization Stories with Tableau Dashboards<br>
 [Fraud Detection on Credit Card Transactions](https://github.com/puran-debugger/Project/blob/master/Fraud%20Detection%20-%20Credit%20Card%20Transaction/Fraud%20Detection%20-%20Credit%20Card%20Transaction.ipynb)<br>
 
 ### 2 Developer
-#### 2.1 Full stack
-Social Company Blog using Python and Flask<br>
-
-#### 2.2 Automation Tools
+#### 2.1 Automation Tools
 [Automative Email](https://github.com/puran-debugger/Project/blob/master/Automative%20Email/Automative%20Email%20Prototype.ipynb)<br>
+Web Scrapping<br>
+  * 1 Scrapping Rotten Tomatoes<br>
+  * 2 Scrapping Steams<br>
+  * 3 Scrapping Youtube<br>
+  
+  
+#### 2.2 Web Application
+Social Company Blog using Python and Flask (full stack)<br>
 [Machine Learning Web App](https://github.com/puran-debugger/Project/tree/master/Machine%20Learning%20Web%20APP_Python_Streamlit)<br>
 
 ### 3 Quantitative Finance
