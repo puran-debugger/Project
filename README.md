@@ -23,6 +23,7 @@ Social Company Blog using Python and Flask<br>
 
 #### 2.2 Automation Tools
 [Automative Email](https://github.com/puran-debugger/Project/blob/master/Automative%20Email/Automative%20Email%20Prototype.ipynb)<br>
+[Machine Learning Web App](https://github.com/puran-debugger/Project/tree/master/Machine%20Learning%20Web%20APP_Python_Streamlit)<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
