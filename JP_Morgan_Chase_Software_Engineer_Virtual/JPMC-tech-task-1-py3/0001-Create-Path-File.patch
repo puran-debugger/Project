@@ -1,0 +1,142 @@
+From e21f40ea11299beceb360fcc3bfc8b81568e8989 Mon Sep 17 00:00:00 2001
+From: Puran Zhang <puran@seas,upenn.edu>
+Date: Wed, 21 Oct 2020 14:35:02 -0700
+Subject: [PATCH] Create Path File
+
+---
+ .../Intro-task1-checkpoint.ipynb              |  6 ++
+ Intro-task1.ipynb                             | 73 +++++++++++++++++++
+ client3.py                                    | 10 ++-
+ 3 files changed, 86 insertions(+), 3 deletions(-)
+ create mode 100644 .ipynb_checkpoints/Intro-task1-checkpoint.ipynb
+ create mode 100644 Intro-task1.ipynb
+
+diff --git a/.ipynb_checkpoints/Intro-task1-checkpoint.ipynb b/.ipynb_checkpoints/Intro-task1-checkpoint.ipynb
+new file mode 100644
+index 0000000..2fd6442
+--- /dev/null
++++ b/.ipynb_checkpoints/Intro-task1-checkpoint.ipynb
+@@ -0,0 +1,6 @@
++{
++ "cells": [],
++ "metadata": {},
++ "nbformat": 4,
++ "nbformat_minor": 2
++}
+diff --git a/Intro-task1.ipynb b/Intro-task1.ipynb
+new file mode 100644
+index 0000000..f159a81
+--- /dev/null
++++ b/Intro-task1.ipynb
+@@ -0,0 +1,73 @@
++{
++ "cells": [
++  {
++   "cell_type": "markdown",
++   "metadata": {},
++   "source": [
++    "# Background\n",
++    "You’ve been asked to assist with some development to add a chart to a trader’s dashboard allowing them to better identify under/over-valued stocks.\n",
++    "\n",
++    "The trader would like to be able to monitor two historically correlated stocks and be able to visualize when the correlation between the two weakens (i.e. one stock moves proportionally more than the historical correlation would imply). This could indicate a potential trade strategy to simultaneously buy the relatively underperforming stock and sell the relatively outperforming stock. Assuming the two prices subsequently converge, the trade should be profitable.\n",
++    "\n",
++    "Most data visualization for our traders is built on JPMorgan Chase's Perspective data visualization software, which is now open source. If you want to explore that, a link is provided in the resources section. \n",
++    "\n",
++    "Before implementing this request using perspective, first you’ll need to interface with the relevant financial data feed and make the necessary adjustments to facilitate the monitoring of potential trade opportunities."
++   ]
++  },
++  {
++   "cell_type": "markdown",
++   "metadata": {},
++   "source": [
++    "# Task 1: Interface with a stock price data feed\n",
++    "For the first module of this project will need you to accomplish the following:\n",
++    "\n",
++    "1. Set up your system by downloading the necessary repository, files, tools and dependencies\n",
++    "2. Fix the broken client datafeed script in the repository by making the required adjustments to it.\n",
++    "3. Generate a patch file of the changes you made\n",
++    "4. Bonus task: Add unit tests in the test script in the repository."
++   ]
++  },
++  {
++   "cell_type": "code",
++   "execution_count": null,
++   "metadata": {},
++   "outputs": [],
++   "source": []
++  }
++ ],
++ "metadata": {
++  "hide_input": false,
++  "kernelspec": {
++   "display_name": "Python 3",
++   "language": "python",
++   "name": "python3"
++  },
++  "language_info": {
++   "codemirror_mode": {
++    "name": "ipython",
++    "version": 3
++   },
++   "file_extension": ".py",
++   "mimetype": "text/x-python",
++   "name": "python",
++   "nbconvert_exporter": "python",
++   "pygments_lexer": "ipython3",
++   "version": "3.7.3"
++  },
++  "toc": {
++   "base_numbering": 1,
++   "nav_menu": {},
++   "number_sections": true,
++   "sideBar": true,
++   "skip_h1_title": false,
++   "title_cell": "Table of Contents",
++   "title_sidebar": "Contents",
++   "toc_cell": false,
++   "toc_position": {},
++   "toc_section_display": true,
++   "toc_window_display": false
++  }
++ },
++ "nbformat": 4,
++ "nbformat_minor": 2
++}
+diff --git a/client3.py b/client3.py
+index f1771c3..9aad06e 100644
+--- a/client3.py
++++ b/client3.py
+@@ -35,14 +35,16 @@ def getDataPoint(quote):
+ 	stock = quote['stock']
+ 	bid_price = float(quote['top_bid']['price'])
+ 	ask_price = float(quote['top_ask']['price'])
+-	price = bid_price
++	price = (bid_price + ask_price)/2
+ 	return stock, bid_price, ask_price, price
+ 
+ def getRatio(price_a, price_b):
+ 	""" Get ratio of price_a and price_b """
+ 	""" ------------- Update this function ------------- """
+ 	""" Also create some unit tests for this function in client_test.py """
+-	return 1
++	if(price_b==0):
++		return
++	return price_a/price_b
+ 
+ # Main
+ if __name__ == "__main__":
+@@ -52,8 +54,10 @@ if __name__ == "__main__":
+ 		quotes = json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
+ 
+ 		""" ----------- Update to get the ratio --------------- """
++		prices = {}
+ 		for quote in quotes:
+ 			stock, bid_price, ask_price, price = getDataPoint(quote)
++			prices[stock] = price
+ 			print ("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+ 
+-		print ("Ratio %s" % getRatio(price, price))
++		print ("Ratio %s" % getRatio(prices['ABC'], prices['DEF']))
+-- 
+2.21.0
+
