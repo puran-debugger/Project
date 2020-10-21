@@ -8,9 +8,9 @@ ETL Pipline<br>
 [Python Application with MongoDB]()<br>
 
 #### 1.2 Data Analytic
-[Covid-19 Data Analysis](https://github.com/puran-debugger/Project/blob/master/Covid19%20Data%20Analysis/Covid19%20data%20analysis.ipynb)<br>
-[Vehicle Information: Extract Insights by PCA](https://github.com/puran-debugger/Project/blob/master/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA.md)<br>
-Visualization Stories with Tableau Dashboards<br>
+1. [Covid-19 Data Analysis](https://github.com/puran-debugger/Project/blob/master/Covid19%20Data%20Analysis/Covid19%20data%20analysis.ipynb)<br>
+2. [Vehicle Information: Extract Insights by PCA](https://github.com/puran-debugger/Project/blob/master/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA/Vehicle%20Information%EF%BC%9AData%20cleaning%20and%20Extract%20insights%20by%20PCA.md)<br>
+3. Visualization Stories with Tableau Dashboards<br>
 
 #### 1.3 Data Science
 [Customer Segmetation]()<br>
@@ -19,16 +19,17 @@ Visualization Stories with Tableau Dashboards<br>
 
 ### 2 Developer
 #### 2.1 Automation Tools
-[Automative Email](https://github.com/puran-debugger/Project/blob/master/Automative%20Email/Automative%20Email%20Prototype.ipynb)<br>
-Web Scrapping<br>
+1. [Automative Email](https://github.com/puran-debugger/Project/blob/master/Automative%20Email/Automative%20Email%20Prototype.ipynb)<br>
+2. Web Scrapping<br>
   * 1 Scrapping Rotten Tomatoes<br>
   * 2 Scrapping Steams<br>
   * 3 Scrapping Youtube<br>
   
   
-#### 2.2 Web Application
-Social Company Blog using Python and Flask (full stack)<br>
-[Machine Learning Web App](https://github.com/puran-debugger/Project/tree/master/Machine%20Learning%20Web%20APP_Python_Streamlit)<br>
+#### 2.2 Web Application & Dashboard
+1. Social Company Blog using Python and Flask (full stack)<br>
+2. [Machine Learning Web App](https://github.com/puran-debugger/Project/tree/master/Machine%20Learning%20Web%20APP_Python_Streamlit)<br>
+3. [Trader Dashboard with Perspective](https://github.com/puran-debugger/Project/tree/master/JP_Morgan_Chase_Software_Engineer_Virtual)
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
