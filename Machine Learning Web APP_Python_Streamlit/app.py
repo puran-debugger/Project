@@ -29,6 +29,7 @@ def main():
             data[col] = label.fit_transform(data[col])
         return data
     
+    df = load_data()
     
     
     
