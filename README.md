@@ -1,5 +1,4 @@
 <h1 align="center"> My Data Science Portfolio </h1> <br>
-![AI](https://github.com/puran-debugger/Project/raw/master/AI.png)
 
 ## Table of Contents
 ### 1 Data Science 
