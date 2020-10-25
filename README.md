@@ -1,4 +1,4 @@
-<h1 align="center"> My Data Science Portfolio </h1> <br>
+<h1 align="center"> My Project Portfolio </h1> <br>
 
 ## Table of Contents
 ### 1 Data Science 
