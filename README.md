@@ -1,4 +1,6 @@
 <h1 align="center"> My Project Portfolio </h1> <br>
+I will continue updating the following sample project portfolio<br>
+
 
 ## Table of Contents
 ### 1 Data Science 
