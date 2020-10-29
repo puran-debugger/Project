@@ -18,6 +18,7 @@ ETL Pipline<br>
 [Customer Segmetation]()<br>
 [Spanish Translate A/B Test](https://github.com/puran-debugger/Project/blob/master/Spanish%20Translation%20AB%20Test/Spanish%20Translation%20AB%20Test.ipynb)<br>
 [Fraud Detection on Credit Card Transactions](https://github.com/puran-debugger/Project/blob/master/Fraud%20Detection%20-%20Credit%20Card%20Transaction/Fraud%20Detection%20-%20Credit%20Card%20Transaction.ipynb)<br>
+[Automatic Machine Learning with H2O AutoML and Python](https://github.com/puran-debugger/Project/tree/master/Automatic%20Machine%20Learning%20with%20H2O%20AutoML%20and%20Python)<br>
 
 ### 2 Developer
 #### 2.1 Automation Tools
