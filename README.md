@@ -19,6 +19,15 @@ ETL Pipline<br>
 [Spanish Translate A/B Test](https://github.com/puran-debugger/Project/blob/master/Spanish%20Translation%20AB%20Test/Spanish%20Translation%20AB%20Test.ipynb)<br>
 [Fraud Detection on Credit Card Transactions](https://github.com/puran-debugger/Project/blob/master/Fraud%20Detection%20-%20Credit%20Card%20Transaction/Fraud%20Detection%20-%20Credit%20Card%20Transaction.ipynb)<br>
 [Automatic Machine Learning with H2O AutoML and Python](https://github.com/puran-debugger/Project/tree/master/Automatic%20Machine%20Learning%20with%20H2O%20AutoML%20and%20Python)<br>
+Cars Sales Prediction with Artifical Neural Networks<br>
+Cifar-10 Images Classification with Deep Learning Neural Networks<br>
+Chicago Crime Rate Prediction with Facebook Prophet (Time Series)<br>
+Future Commodity Price of Avocado with Facebook Prophet (Time Series)<br>
+Traffic Sign Classification with LeNet Deep Network (CNN)<br>
+Email Spam Filter (NLP)<br>
+Yelp Reviews (NLP)<br>
+User-based Collaborative Filtering - Movie Recommendation Systems<br>
+
 
 ### 2 Developer
 #### 2.1 Automation Tools
@@ -42,6 +51,7 @@ Barra Risk Factor Attribution<br>
 #### 3.2 Trading
 Market Neutral Trading Startegies<br>
 
-#### 3.3 Fixed Income Securities
+#### 3.3 Derrivatives Pricing
+Derrivatives Pricing with numerical methods<br>
 
-#### 3.4 Derrivatives Pricing
+### 3.4 Fixed Income Securities
