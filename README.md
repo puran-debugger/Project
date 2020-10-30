@@ -20,9 +20,9 @@ ETL Pipline<br>
 [Fraud Detection on Credit Card Transactions](https://github.com/puran-debugger/Project/blob/master/Fraud%20Detection%20-%20Credit%20Card%20Transaction/Fraud%20Detection%20-%20Credit%20Card%20Transaction.ipynb)<br>
 [Automatic Machine Learning with H2O AutoML and Python](https://github.com/puran-debugger/Project/tree/master/Automatic%20Machine%20Learning%20with%20H2O%20AutoML%20and%20Python)<br>
 Cars Sales Prediction with Artifical Neural Networks<br>
-Cifar-10 Images Classification with Deep Learning Neural Networks<br>
 Chicago Crime Rate Prediction with Facebook Prophet (Time Series)<br>
 Future Commodity Price of Avocado with Facebook Prophet (Time Series)<br>
+Cifar-10 Images Classification with Deep Learning Neural Networks (CNN)<br>
 Traffic Sign Classification with LeNet Deep Network (CNN)<br>
 Email Spam Filter (NLP)<br>
 Yelp Reviews (NLP)<br>
