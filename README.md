@@ -45,7 +45,7 @@ User-based Collaborative Filtering - Movie Recommendation Systems<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
-Credit Risk Modeling - PD,LGD, EAD model<br>
+Credit Risk Modeling with PD*LGD*EAD Framework<br>
 Barra Risk Factor Attribution<br>
 
 #### 3.2 Trading
