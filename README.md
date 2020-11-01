@@ -41,7 +41,7 @@ User-based Collaborative Filtering - Movie Recommendation Systems<br>
 #### 2.2 Web Application & Dashboard
 1. Social Company Blog using Python and Flask (full stack)<br>
 2. [Machine Learning Web App](https://github.com/puran-debugger/Project/tree/master/Machine%20Learning%20Web%20APP_Python_Streamlit)<br>
-3. [Trader Dashboard with Perspective](https://github.com/puran-debugger/Project/tree/master/JP_Morgan_Chase_Software_Engineer_Virtual)
+3. [Trader Dashboard with Perspective](https://github.com/puran-debugger/Project/tree/master/JP_Morgan_Chase_Software_Engineer_Virtual) (JP Morgan Chase & Go Enginneer Project)<br>
 
 ### 3 Quantitative Finance
 #### 3.1 Risk
