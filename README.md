@@ -52,6 +52,6 @@ Barra Risk Factor Attribution<br>
 Market Neutral Trading Startegies<br>
 
 #### 3.3 Derrivatives Pricing
-Derrivatives Pricing with numerical methods<br>
+Derrivatives Pricing with Numerical Methods<br>
 
 ### 3.4 Fixed Income Securities
