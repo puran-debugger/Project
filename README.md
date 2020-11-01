@@ -1,5 +1,5 @@
 <h1 align="center"> My Project Portfolio </h1> <br>
-**Recently I will update the structrue of this files to make a better visualization.**<br>
+**Recently I will update the structrue of this files to make a better visualization**<br>
 
 I will continue updating this sample project portfolio from time to time.<br>
 
